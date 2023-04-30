@@ -6,15 +6,16 @@ body {
 }
 
 body {
-  font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: "Muli", "Helvetica", "Arial", "sans-serif";
 }
 
 a {
-  color: #fdcc52 ;
-  transition: all .35s;
+  color: #fdcc52;
+  transition: all 0.35s;
 }
 
-a:hover, a:focus {
+a:hover,
+a:focus {
   color: #fcbd20;
 }
 
@@ -35,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: "Catamaran", "Helvetica", "Arial", "sans-serif";
   font-weight: 200;
   letter-spacing: 1px;
 }
@@ -57,33 +58,26 @@ section h2 {
 #mainNavStyle {
   background-color: #b3b2b2;
   font-weight: 500;
-  
 }
-header.masthead{
+header.masthead {
   background-image: url("/images/bg-img.svg");
   position: relative;
   max-width: 100%;
   padding-top: 10%;
   padding-bottom: 10%;
   height: auto;
- 
- 
-
 }
 
-.heroText{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+.heroText {
+  margin-top: 20%;
   max-width: 700px;
   text-align: center;
 }
 
-header.heroImageContainer img{
-height: 10%;
+header.heroImageContainer img {
+  height: 10%;
 }
 
-.bug{
+.bug {
   border: 2px solid #fd5252;
 }
