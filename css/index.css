@@ -1,4 +1,7 @@
 /* Global styles ============= */
+/* .bug {
+  border: 2px solid #fd5252;
+} */
 html,
 html {
   scroll-behavior: smooth;
@@ -58,6 +61,7 @@ section h2 {
   font-size: 50px;
 }
 
+/* nav bar */
 #mainNavStyle {
   background-color: #b3b2b2;
   font-weight: 500;
@@ -71,6 +75,7 @@ header.masthead {
   height: auto;
 }
 
+/* hero section */
 .heroText {
   margin-top: 20%;
   max-width: 700px;
@@ -81,17 +86,14 @@ header.heroImageContainer img {
   height: 10%;
 }
 
-.bug {
-  border: 2px solid #fd5252;
-}
-
+/* download section */
 .download {
   background-color: #fdcc52;
   color: #000000;
   padding: 15%;
   padding-left: 30%;
 }
-
+/* testimonial */
 .testimonial {
   color: #000000;
   padding: 5%;
@@ -99,4 +101,15 @@ header.heroImageContainer img {
 
 .testimonial-heading {
   font-size: 50px;
+}
+
+/* susbscribe section */
+
+.subscribe-section {
+  background-image: url(/images/SF.svg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 15%;
+  padding-bottom: 30%;
 }
