@@ -91,3 +91,12 @@ header.heroImageContainer img {
   padding: 15%;
   padding-left: 30%;
 }
+
+.testimonial {
+  color: #000000;
+  padding: 5%;
+}
+
+.testimonial-heading {
+  font-size: 50px;
+}
