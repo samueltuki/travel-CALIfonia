@@ -106,7 +106,15 @@ header.heroImageContainer img {
 /* susbscribe section */
 
 .subscribe-section {
-  background-image: url(/images/SF.svg);
+  background: linear-gradient(
+      to top,
+      #121212 0%,
+      rgba(0, 0, 0, 0.5) 70%,
+      rgba(0, 0, 0, 0.5) 100%
+    ),
+    url("/images/SF.svg");
+
+  background-size: cover;
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
