@@ -84,3 +84,10 @@ header.heroImageContainer img {
 .bug {
   border: 2px solid #fd5252;
 }
+
+.download {
+  background-color: #fdcc52;
+  color: #000000;
+  padding: 15%;
+  padding-left: 30%;
+}
