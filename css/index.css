@@ -92,23 +92,25 @@ header.heroImageContainer img {
 }
 
 #download .container .row .Platform-icons {
-  margin-left: 25%;
+  /* margin-left: 25%; */
 }
 
 #download .container .row .Platform-icons img {
   height: 50px;
+  /* text-align: center; */
 }
 .download .container h2 {
   /* margin-right: 15%; */
-  text-align: center;
+  /* text-align: center; */
 }
 
 .download .container p {
   /* margin-left: 5%; */
-  text-align: center;
+  /* text-align: center; */
 }
 
 .download-content {
+  text-align: center;
 }
 
 /* testimonial */
