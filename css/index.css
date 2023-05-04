@@ -144,9 +144,18 @@ h5 {
 }
 
 .social-media-logo a {
-  font-size: 70px;
+  text-align: center;
+  height: 3rem;
+  width: 3rem;
+  line-height: 3rem;
   color: rgb(255, 255, 255) !important;
-
+  border-radius: 100%;
+  background: #303030;
+  margin: 0.5rem;
 }
 
-
+footer {
+  background-color: #5d5d5d;
+  color: #ffffff;
+  padding: 0.5rem;
+}
