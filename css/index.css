@@ -64,7 +64,7 @@ section h2 {
   background-color: #b3b2b2;
   font-weight: 500;
 }
-header.masthead {
+header.mainhead {
   background-image: url("/images/bg-img.svg");
   position: relative;
   max-width: 100%;
