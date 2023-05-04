@@ -89,8 +89,28 @@ header.heroImageContainer img {
   background-color: #fdcc52;
   color: #000000;
   padding: 15%;
-  padding-left: 30%;
 }
+
+#download .container .row .Platform-icons {
+  margin-left: 25%;
+}
+
+#download .container .row .Platform-icons img {
+  height: 50px;
+}
+.download .container h2 {
+  /* margin-right: 15%; */
+  text-align: center;
+}
+
+.download .container p {
+  /* margin-left: 5%; */
+  text-align: center;
+}
+
+.download-content {
+}
+
 /* testimonial */
 .testimonial {
   color: #000000;
@@ -154,6 +174,7 @@ h5 {
   margin: 0.5rem;
 }
 
+/* footer */
 footer {
   background-color: #5d5d5d;
   color: #ffffff;
